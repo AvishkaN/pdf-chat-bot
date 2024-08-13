@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain==0.2.12
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+transformers
+langchain-community
+sentence-transformers
+openai
+tiktoken
+transformers
